@@ -1,0 +1,138 @@
+
+div{
+    padding: 10px;
+}
+a{
+    font-size: 20px;
+    margin-right: 40px;
+    color: rgb(38, 178, 200);    
+}
+#headerImage{
+    width: 100%;
+    background-image: url("Deakin\ University.jpg");
+    background-size: cover;
+    font-family:sans-serif;
+    text-align: center;
+    line-height: 800px;
+    font-size: 20px;   
+    color: azure;
+}
+
+
+#Profilepic{
+    background-image: url("Ritikpic.jpeg");
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    border-radius: 80px;
+    margin-left:650px;
+    margin-top: 50px;
+}
+#descrip{
+    text-align: center;
+    color: rgb(38, 178, 200); 
+    
+}
+hr{
+    width: 25%;
+}
+p1{
+    font-size: 20px;
+}
+p2{
+    font-size: 30px;
+}
+.Projects{
+    margin-top: 20px;
+    
+    color: rgb(38, 178, 200);
+}
+#first{
+    background-image: url("Coalmine.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;   
+    margin-left: 650px;
+    
+}
+#coaldescrip{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+#second{
+    background-image: url("recordbot.JPG");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 650px;
+}
+#recorddescrip{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;   
+}
+#Photos{
+    color: rgb(38, 178, 200);
+    font-size: 30px;
+    margin-left: 45%;
+}
+.photo {
+    width: 100vw;
+    height: 20vw;
+    margin-top: 10px;
+}
+
+.p1 {
+    width: 20%;
+    height: 20vw;
+    float: left;
+    margin-left: 8%;
+}
+
+.p1 img {
+    width: 100%;
+    height: 20vw;
+}
+
+.p2 {
+    width: 20%;
+    height: 20vw;
+    float: left;
+}
+
+.p2 img {
+    width: 100%;
+    height: 20vw;
+}
+
+.p3 {
+    width: 20%;
+    height: 20vw;
+    float: left;
+}
+
+.p3 img {
+    width: 100%;
+    height: 20vw;
+}
+
+.p4 {
+    width: 20%;
+    height: 20vw;
+    float: left;
+}
+
+.p4 img {
+    width: 100%;
+    height: 20vw;
+}
+#heading4{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(38, 178, 200);
+
+}
+
